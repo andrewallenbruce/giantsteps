@@ -1,10 +1,8 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: HIM & I
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
+A personal repository for health information & data analytics projects.
 
